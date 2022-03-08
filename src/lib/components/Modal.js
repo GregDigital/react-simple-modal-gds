@@ -1,5 +1,5 @@
 import React from "react";
-import "./Modal.css";
+import "./modal.css";
 import PropTypes from "prop-types";
 
 export const Modal = ({ content, open, close }) => {
